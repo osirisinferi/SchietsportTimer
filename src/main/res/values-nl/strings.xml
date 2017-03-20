@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_about">Over</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="text_about_header">Voor meer informatie bezoek:</string>
+    <string name="text_about_mail">Voor andere vragen:</string>
+</resources>
