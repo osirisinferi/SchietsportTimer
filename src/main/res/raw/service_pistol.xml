@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <discipline name="service_pistol" title="Service Pistol">
+        <!-- 25 m in 15 sec -->
+        <event type="vocal" hold="false">
+            <command>Laden</command>
+            <delay>60</delay>
+        </event>
+        <event type="vocal" hold="false">
+            <command>Schutter gereed</command>
+            <delay>3</delay>
+        </event>
+        <event type="vocal" hold="false">
+            <command>Vaardighouding</command>
+            <delay>5</delay>
+        </event>
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>1</time>
+            <delay>0</delay>
+        </event>
+        <event type="pause" hold="false">
+            <time>13</time>
+        </event>
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>2</time>
+            <delay>0</delay>
+        </event>
+        <event type="vocal" hold="true">
+            <command>Ontladen, leeg tonen</command>
+        </event>
+        <event type="vocal" hold="true">
+            <command>Volgend schietpunt</command>
+        </event>
+
+        <!-- 20 m in 10 sec -->
+        <event type="vocal" hold="false">
+            <command>Laden</command>
+            <delay>60</delay>
+        </event>
+        <event type="vocal" hold="false">
+            <command>Schutter gereed</command>
+            <delay>3</delay>
+        </event>
+        <event type="vocal" hold="false">
+            <command>Vaardighouding</command>
+            <delay>5</delay>
+        </event>
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>1</time>
+            <delay>0</delay>
+        </event>
+        <event type="pause" hold="false">
+            <time>8</time>
+        </event>
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>2</time>
+            <delay>0</delay>
+        </event>
+        <event type="vocal" hold="true">
+            <command>Ontladen, leeg tonen</command>
+        </event>
+        <event type="vocal" hold="true">
+            <command>Volgend schietpunt</command>
+        </event>
+
+        <!-- 15 m in 3+3+3 sec -->
+        <event type="vocal" hold="false">
+            <command>Laden</command>
+            <delay>60</delay>
+        </event>
+        <event type="vocal" hold="false">
+            <command>Schutter gereed</command>
+            <delay>3</delay>
+        </event>
+        <event type="vocal" hold="false">
+            <command>Vaardighouding</command>
+            <delay>5</delay>
+        </event>
+        <!-- first set of 2 shots -->
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>1</time>
+            <delay>0</delay>
+        </event>
+        <event type="pause" hold="false">
+            <time>1</time>
+        </event>
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>1</time>
+            <delay>0</delay>
+        </event>
+        <event type="pause" hold="false">
+            <time>2</time>
+            <delay>0</delay>
+        </event>
+        <!-- second set of 2 shots -->
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>1</time>
+            <delay>0</delay>
+        </event>
+        <event type="pause" hold="false">
+            <time>1</time>
+        </event>
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>1</time>
+            <delay>0</delay>
+        </event>
+        <event type="pause" hold="false">
+            <time>2</time>
+            <delay>0</delay>
+        </event>
+        <!-- last set of 2 shots -->
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>1</time>
+            <delay>0</delay>
+        </event>
+        <event type="pause" hold="false">
+            <time>1</time>
+        </event>
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>1</time>
+            <delay>0</delay>
+        </event>
+        <event type="vocal" hold="true">
+            <command>Ontladen, leeg tonen</command>
+        </event>
+        <event type="vocal" hold="true">
+            <command>Volgend schietpunt</command>
+        </event>
+
+        <!-- 10 m in 6 sec -->
+        <event type="vocal" hold="false">
+            <command>Laden</command>
+            <delay>60</delay>
+        </event>
+        <event type="vocal" hold="false">
+            <command>Schutter gereed</command>
+            <delay>3</delay>
+        </event>
+        <event type="vocal" hold="false">
+            <command>Vaardighouding</command>
+            <delay>5</delay>
+        </event>
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>1</time>
+            <delay>0</delay>
+        </event>
+        <event type="pause" hold="false">
+            <time>4</time>
+        </event>
+        <event type="signal" hold="false">
+            <signal>whistle</signal>
+            <time>2</time>
+            <delay>0</delay>
+        </event>
+        <event type="vocal" hold="true">
+            <command>Ontladen, tonen</command>
+        </event>
+        <event type="vocal" hold="true">
+            <command>U kunt de baan verlaten</command>
+        </event>
+</discipline>
