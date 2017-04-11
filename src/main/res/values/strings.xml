@@ -6,4 +6,5 @@
     <string name="text_about_site" translatable="false">https://osiris.nl.eu.org/schietsporttimer/</string>
     <string name="text_about_mail">For other questions:</string>
     <string name="text_about_email_address" translatable="false">schietsporttimer@osiris.nl.eu.org</string>
+    <string name="text_main_quickstart">Discipline quickstart:</string>
 </resources>

@@ -4,4 +4,5 @@
     <string name="action_settings">Instellingen</string>
     <string name="text_about_header">Voor meer informatie bezoek:</string>
     <string name="text_about_mail">Voor andere vragen:</string>
+    <string name="text_main_quickstart">Discipline snelstart:</string>
 </resources>
